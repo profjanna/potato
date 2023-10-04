@@ -1,7 +1,7 @@
 let potato;
 
 function preload(){
-  potato = loadImage("potato1.jpg");
+  potato = loadImage("potato1.jpeg");
 }
 
 function setup() {
